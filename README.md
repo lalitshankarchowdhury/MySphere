@@ -1,2 +1,3 @@
 # MySphere
-MySphere - A social media
+
+MySphere - A social media.
